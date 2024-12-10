@@ -23,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .venv/
+
+frontend/node_modules/
+frontend/build/
+frontend/package-lock.json
